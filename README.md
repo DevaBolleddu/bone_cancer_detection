@@ -1,4 +1,3 @@
-# bone_cancer_detection
 # Optimized Deep Learning Framework for Bone Cancer Detection (ODLF-BCD)
 
 ## 📌 Overview
